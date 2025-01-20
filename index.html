@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="https://cdn-icons-png.flaticon.com/512/1167/1167993.png"
+      type="image/x-icon"
+    />
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Semafaro 🟢🟡🔴</title>
+  </head>
+  <body>
+    <!-- Estrutura do semáforo -->
+    <div class="semaforo">
+      <div id="vermelho" class="luz"></div>
+      <div id="amarelo" class="luz"></div>
+      <div id="verde" class="luz"></div>
+    </div>
+
+    <!-- Botões para mudar as luzes -->
+    <div class="botoes">
+      <button class="verde-btn" onclick="mudarLuz('verde')">Verde</button>
+      <button class="amarelo-btn" onclick="mudarLuz('amarelo')">Amarelo</button>
+      <button class="vermelho-btn" onclick="mudarLuz('vermelho')">
+        Vermelho
+      </button>
+    </div>
+
+    <!-- Script -->
+    <script src="./script.js"></script>
+  </body>
+</html>
