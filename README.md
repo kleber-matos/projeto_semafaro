@@ -31,8 +31,13 @@ Caso tenha qualquer dúvida ou sugestão, estamos à disposição para ajudar.
 
 Entre em contato pelo LinkedIn:
 
+
 [**Kleber Matos**](https://www.linkedin.com/in/kleber-matos/)
 
 ---
+
+
+
+<img width="500px" height="220px" src="https://github.com/user-attachments/assets/2edf5ce1-b60e-4360-86c1-524ccef97da4" />
 
 **Obrigado por visitar o projeto!** 🌟
