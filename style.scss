@@ -1,7 +1,18 @@
 body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
   background-image: url("https://desenvolveleste.com.br/wp-content/uploads/2020/09/Dia-do-Tr%C3%A2nsito-1.jpg");
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 /* Estilização do semáforo */
